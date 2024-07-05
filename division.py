@@ -1,3 +1,3 @@
-def integer_division(dividend, divisor):
+def division(dividend, divisor):
     return dividend // divisor
 
