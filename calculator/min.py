@@ -1,5 +1,5 @@
 """min"""
 
-def min(a, b):
+def minimum(a, b):
     """function for summation"""
     return min(a, b)
