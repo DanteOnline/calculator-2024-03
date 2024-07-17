@@ -1,5 +1,5 @@
 """max"""
 
 def maximum(a, b):
-    """function for maximum"""
+    """function for maximum - функция для суммирования"""
     return max(a,b)
