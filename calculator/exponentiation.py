@@ -1,5 +1,5 @@
 """sum"""
 
 def exponentiation(a, b):
-    """function for summation. Added new documentation"""
+    """function for exponentiation. Added new documentation"""
     return a ** b
