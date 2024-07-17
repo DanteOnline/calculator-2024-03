@@ -1,5 +1,5 @@
 """reminder"""
 
 def reminder(a, b):
-    """function for reminder"""
+    """function for reminder - Бери и делай) """
     return a % b
