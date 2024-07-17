@@ -39,3 +39,8 @@ try:
     from .minimum import minimum
 except ModuleNotFoundError:
     print('minimum not found')
+try:
+    from .minus import minus
+except ModuleNotFoundError:
+    print('minus not found')
+
